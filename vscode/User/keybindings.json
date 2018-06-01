@@ -1,0 +1,10 @@
+[
+    {
+        "key": "alt+left",
+        "command": "workbench.action.focusFirstEditorGroup"
+    },
+    {
+        "key": "alt+right",
+        "command": "workbench.action.focusSecondEditorGroup"
+    },
+]
