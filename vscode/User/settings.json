@@ -1,0 +1,31 @@
+{
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontSize": 13,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "editor.dragAndDrop": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.rulers": [
+        80
+    ],
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.tips.enabled": false,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.fontSize": 13,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.editor.showTabs": false,
+    "explorer.openEditors.visible": 0,
+}
