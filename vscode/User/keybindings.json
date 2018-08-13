@@ -7,4 +7,8 @@
         "key": "alt+right",
         "command": "workbench.action.focusSecondEditorGroup"
     },
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.toggleTerminal"
+    }
 ]
